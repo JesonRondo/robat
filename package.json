@@ -1,0 +1,24 @@
+{
+  "name": "robat",
+  "version": "1.0.0",
+  "description": "钉钉机器人",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesonRondo/robat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesonRondo/robat/issues"
+  },
+  "homepage": "https://github.com/JesonRondo/robat#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.8.3"
+  }
+}
